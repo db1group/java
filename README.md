@@ -8,6 +8,11 @@
 
 <p align="center">🎉 <a href="https://github.com/db1group/click-and-code/blob/master/CONTRIBUTING.md">Click here to contribute</a> 🥳</p>
 
+## How to run a test
+
+Just open the test class and click over `Run test` option, right above the test name.
+>IMPORTANT: If it is your first workspace, it may take a few seconds before showing this option.
+
 ## Environment setup
 
 * OpenJDK 11
