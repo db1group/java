@@ -8,6 +8,8 @@
 
 <p align="center">🎉 <a href="https://github.com/db1group/click-and-code/blob/master/CONTRIBUTING.md">Click here to contribute</a> 🥳</p>
 
+<p align="center"><a href="https://github.com/db1group/click-and-code">-= Back to Main Project =-</a></p>
+
 ![Java CI with Gradle](https://github.com/db1group/java/workflows/Java%20CI%20with%20Gradle/badge.svg)
 
 ## How to run a test
