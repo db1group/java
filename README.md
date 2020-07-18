@@ -1,3 +1,5 @@
+![Java CI with Gradle](https://github.com/db1group/java/workflows/Java%20CI%20with%20Gradle/badge.svg)
+
 <p align="center">Click below to start a ready-to-code IDE for java projects.</p>
 
 <p align="center">
